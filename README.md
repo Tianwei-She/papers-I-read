@@ -7,3 +7,6 @@
 - [Dynamics of scene representations in the human brain revealed by magnetoencephalography and deep neural networks, by Radoslaw Martin Cichy et al.](https://www.sciencedirect.com/science/article/pii/S1053811916300076?via%3Dihub)
 - [Comparison of deep neural networks to spatio-temporal cortical dynamics of human visual object recognition reveals hierarchical correspondence, by Radoslaw Martin Cichy et al.](https://www.nature.com/articles/srep27755.pdf)
 - [Object detectors emerge in deep scene CNNs, by Bolei Zhou et al.](https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf)
+- HVU-[Large Scale Holistic Video Understanding (The complete HVU dataset is not available yet)](https://arxiv.org/pdf/1904.11451.pdf)
+- [Online Model Distillation for Efficient Video Inference (Long Video Streams (LVS) Dataset)](https://arxiv.org/pdf/1812.02699.pdf)
+- [A Multigrid Method for Efficiently Training Video Models](https://arxiv.org/pdf/1912.00998.pdf)
