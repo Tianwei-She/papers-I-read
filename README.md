@@ -11,5 +11,5 @@
 - [Online Model Distillation for Efficient Video Inference (Long Video Streams (LVS) Dataset)](https://arxiv.org/pdf/1812.02699.pdf) (03/18/2020)
 - [A Multigrid Method for Efficiently Training Video Models](https://arxiv.org/pdf/1912.00998.pdf) (03/19/2020)
 - [DeepVoxels: Learning Persistent 3D Feature Embeddings](https://arxiv.org/pdf/1812.01024.pdf) (03/22/2020)
-- [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf)
+- [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) (03/23/2020)
 - [On the Importance of Views in Unsupervised Representation Learning](https://www.mikehwu.com/papers/representation_view.pdf)
