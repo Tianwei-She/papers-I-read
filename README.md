@@ -10,3 +10,5 @@
 - HVU-[Large Scale Holistic Video Understanding (The complete HVU dataset is not available yet)](https://arxiv.org/pdf/1904.11451.pdf)
 - [Online Model Distillation for Efficient Video Inference (Long Video Streams (LVS) Dataset)](https://arxiv.org/pdf/1812.02699.pdf)
 - [A Multigrid Method for Efficiently Training Video Models](https://arxiv.org/pdf/1912.00998.pdf)
+- [DeepVoxels: Learning Persistent 3D Feature Embeddings](https://arxiv.org/pdf/1812.01024.pdf)
+- [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf)
