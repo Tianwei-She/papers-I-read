@@ -16,3 +16,4 @@
 - [Unsupervised Learning of Visual Representations using Videos](https://xiaolonw.github.io/papers/unsupervised_video.pdf) (03/27/2020)
 - [Transitive Invariance for Self-supervised Visual Representation Learning](https://arxiv.org/pdf/1708.02901.pdf) (03/27/2020)
 - [SynSin: End-to-end View Synthesis from a Single Image](https://arxiv.org/pdf/1912.08804.pdf) (03/26/2020)
+- [A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/1902.09229.pdf)
