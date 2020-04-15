@@ -13,7 +13,8 @@
 - [SynSin: End-to-end View Synthesis from a Single Image](https://arxiv.org/pdf/1912.08804.pdf) (03/26/2020)
 - [A Theoretical Analysis of Contrastive Unsupervised Representation Learning](https://arxiv.org/pdf/1902.09229.pdf)
 - [Learning Features by Watching Objects Move](https://arxiv.org/abs/1612.06370) [[project page]](https://people.eecs.berkeley.edu/~pathak/unsupervised_video/) (04/14/2020)
-- [3D Photography using Context-aware Layered Depth Inpainting](https://arxiv.org/abs/2004.04727) [[project page]](https://shihmengli.github.io/3D-Photo-Inpainting/)
+- [3D Photography using Context-aware Layered Depth Inpainting](https://arxiv.org/abs/2004.04727) [[project page]](https://shihmengli.github.io/3D-Photo-Inpainting/) (04/15/2020)
+- [Contrastive Learning of Structured World Models](https://arxiv.org/pdf/1911.12247.pdf)
 
 ## Interpretability of Neural Networks
 - [Object detectors emerge in deep scene CNNs, by Bolei Zhou et al.](https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf)
