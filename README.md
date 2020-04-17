@@ -8,6 +8,7 @@
 - [DeepVoxels: Learning Persistent 3D Feature Embeddings](https://arxiv.org/pdf/1812.01024.pdf) (03/22/2020)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) (03/23/2020)
 - [On the Importance of Views in Unsupervised Representation Learning](https://www.mikehwu.com/papers/representation_view.pdf)
+- [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922)
 - [Unsupervised Learning of Visual Representations using Videos](https://xiaolonw.github.io/papers/unsupervised_video.pdf) (03/27/2020)
 - [Transitive Invariance for Self-supervised Visual Representation Learning](https://arxiv.org/pdf/1708.02901.pdf) (03/27/2020)
 - [SynSin: End-to-end View Synthesis from a Single Image](https://arxiv.org/pdf/1912.08804.pdf) (03/26/2020)
