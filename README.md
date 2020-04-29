@@ -7,8 +7,6 @@
 - [A Multigrid Method for Efficiently Training Video Models](https://arxiv.org/pdf/1912.00998.pdf) (03/19/2020)
 - [DeepVoxels: Learning Persistent 3D Feature Embeddings](https://arxiv.org/pdf/1812.01024.pdf) (03/22/2020)
 - [Scene Representation Networks: Continuous 3D-Structure-Aware Neural Scene Representations](https://arxiv.org/pdf/1906.01618.pdf) (03/23/2020)
-- [On the Importance of Views in Unsupervised Representation Learning](https://www.mikehwu.com/papers/representation_view.pdf)
-- [On Variational Bounds of Mutual Information](https://arxiv.org/abs/1905.06922)
 - [Unsupervised Learning of Visual Representations using Videos](https://xiaolonw.github.io/papers/unsupervised_video.pdf) (03/27/2020)
 - [Transitive Invariance for Self-supervised Visual Representation Learning](https://arxiv.org/pdf/1708.02901.pdf) (03/27/2020)
 - [SynSin: End-to-end View Synthesis from a Single Image](https://arxiv.org/pdf/1912.08804.pdf) (03/26/2020)
@@ -18,6 +16,8 @@
 - [Contrastive Learning of Structured World Models](https://arxiv.org/pdf/1911.12247.pdf) (04/15/2020)
 - [HoloGAN: Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/pdf/1904.01326.pdf) (04/15/2020)
 - [Monocular Neural Image Based Rendering with Continuous View Control](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Monocular_Neural_Image_Based_Rendering_With_Continuous_View_Control_ICCV_2019_paper.pdf) (04/16/2020)
+- [On the Importance of Views in Unsupervised Representation Learning](https://www.mikehwu.com/papers/representation_view.pdf) (04/25/2020)
+- [Supervised Contrastive Learning](https://arxiv.org/pdf/2004.11362.pdf) (04/29/2020)
 
 ## Interpretability of Neural Networks
 - [Object detectors emerge in deep scene CNNs, by Bolei Zhou et al.](https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf)
