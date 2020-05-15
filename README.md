@@ -18,6 +18,8 @@
 - [Monocular Neural Image Based Rendering with Continuous View Control](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Monocular_Neural_Image_Based_Rendering_With_Continuous_View_Control_ICCV_2019_paper.pdf) (04/16/2020)
 - [On the Importance of Views in Unsupervised Representation Learning](https://www.mikehwu.com/papers/representation_view.pdf) (04/25/2020)
 - [Supervised Contrastive Learning](https://arxiv.org/pdf/2004.11362.pdf) (04/29/2020)
+- [Audio-Visual Instance Discrimination with Cross-Modal Agreement](https://arxiv.org/pdf/2004.12943.pdf) (05/07/2020)
+- [Contrastive Learning of Structured World Models](https://arxiv.org/pdf/1911.12247.pdf) (05/15/2020)
 
 ## Interpretability of Neural Networks
 - [Object detectors emerge in deep scene CNNs, by Bolei Zhou et al.](https://people.csail.mit.edu/khosla/papers/iclr2015_zhou.pdf)
